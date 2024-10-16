@@ -116,7 +116,7 @@ class _MainPageState extends State<MainPage> {
                   });
                 });
               },
-              backgroundColor: Colors.green,
+              backgroundColor: Colors.lightBlueAccent,
               child: Icon(Icons.add)),
         ),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
@@ -157,7 +157,7 @@ class _MainPageState extends State<MainPage> {
             : CalendarAppBar(
                 fullCalendar: true,
                 backButton: false,
-                accent: Colors.green,
+                accent: Color(0xFF057DCD),
                 locale: 'en',
                 onDateChanged: (value) {
                   setState(() {
