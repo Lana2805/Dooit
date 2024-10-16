@@ -1,2 +1,2 @@
-# uangkoo 
-Aplikasi pelacak keuangan dengan flutter - Soon
+# Dooit
+Aplikasi pencatat keuangan dengan flutter - Soon
