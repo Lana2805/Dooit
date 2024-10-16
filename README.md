@@ -6,9 +6,7 @@ Dooit adalah aplikasi manajemen keuangan pribadi berbasis Flutter yang memungkin
 
 - **Manajemen Transaksi**: Tambahkan transaksi dengan kategori **Income** atau **Expense**.
 - **Kategori Kustom**: Pengguna dapat membuat dan mengelola kategori sesuai kebutuhan.
-- **Laporan Keuangan**: Lihat ringkasan transaksi harian, mingguan, atau bulanan.
-- **Pengingat Transaksi**: Mengatur pengingat untuk transaksi berulang.
-- **Switch Expense/Income**: Ubah status transaksi dengan mudah melalui fitur switch.
+- **Laporan Keuangan**: Lihat ringkasan transaksi harian
 - **Antarmuka Modern**: Desain UI yang responsif dengan integrasi Google Fonts.
 
 ## Teknologi yang Digunakan
